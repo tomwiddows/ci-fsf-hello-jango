@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-+)k_v2l0poyml2pir0cx)@$^0@oq#8-_i*3ny263)m-36x&q+5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-tomwiddows-cifsfhelloja-swcrujcuwud.ws.codeinstitute-ide.net', 'toms-todo-list-app-d25d4852c569.herokuapp.com/']
+ALLOWED_HOSTS = ['8000-tomwiddows-cifsfhelloja-swcrujcuwud.ws.codeinstitute-ide.net', 'toms-todo-list-app-d25d4852c569.herokuapp.com']
 
 
 # Application definition
